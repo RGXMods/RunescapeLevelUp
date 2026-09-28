@@ -195,10 +195,13 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 | WoW Version | Interface | Status | TOC File |
 |-------------|-----------|--------|----------|
-| **Midnight (Retail)** | `120007` | ✅ Fully Supported | `RunescapeLevelUp.toc` |
-| **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported | `RunescapeLevelUp.toc` |
-| **Burning Crusade Classic** | `20506` | ✅ Fully Supported | `RunescapeLevelUp.toc` |
-| **Classic Era** | `11509` | ✅ Fully Supported | `RunescapeLevelUp.toc` |
+| **Midnight (Retail)** | `120100` | ✅ Fully Supported | `RunescapeLevelUp.toc` |
+| **WoW Forever (Beta)** | `16001` | ✅ Fully Supported | `RunescapeLevelUp_Forever.toc` |
+| **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported | `RunescapeLevelUp_Mists.toc` |
+| **Cataclysm Classic** | `40402` | ✅ Fully Supported | `RunescapeLevelUp_Cata.toc` |
+| **Wrath of the Lich King Classic** | `38002` | ✅ Fully Supported | `RunescapeLevelUp_Wrath.toc` |
+| **Burning Crusade Classic** | `20506` | ✅ Fully Supported | `RunescapeLevelUp_TBC.toc` |
+| **Classic Era** | `11509` | ✅ Fully Supported | `RunescapeLevelUp_Vanilla.toc` |
 
 </div>
 
