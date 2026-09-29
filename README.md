@@ -101,6 +101,8 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 - **<span style="color:#4ecdc4">🎯 Cross-Compatible:</span>** <span style="color:#e67e23">Works across supported WoW versions</span>
 - **<span style="color:#ff6b6b">💬 Active Support:</span>** <span style="color:#e67e23">Join our Discord for instant help!</span>
 
+**<span style="color:#767778">🌐 Languages:</span>** <span style="color:#e67e23">RSLU ships in all 12 WoW client languages: English (enUS), German (deDE), Spanish (esES/esMX), French (frFR), Italian (itIT), Korean (koKR), Brazilian Portuguese (ptBR), European Portuguese (ptPT), Russian (ruRU), Simplified Chinese (zhCN), and Traditional Chinese (zhTW). The client language is detected automatically, and any untranslated value falls back to English.</span>
+
 ---
 
 <a id="features"></a>
@@ -126,6 +128,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 - **<span style="color:#767778">Instant Commands</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Simplified slash command system</span>
 - **<span style="color:#ff6b6b">Error Handling</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Robust protection against crashes</span>
 - **<span style="color:#b96ad9">Performance Optimized</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Efficient memory usage</span>
+- **<span style="color:#58be81">12 Languages</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Automatic client-language detection with English fallback</span>
 
 </td>
 </tr>
