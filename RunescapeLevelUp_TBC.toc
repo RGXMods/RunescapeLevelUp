@@ -13,7 +13,7 @@
 ## X-Website: https://github.com/RGXMods/RunescapeLevelUp
 ## X-Localizations: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW
 ## X-Curse-Project-ID: 594575
-## X-Wago-ID: 96VPaMNb
+## X-Wago-ID: WL6JxyGv
 
 data\locales.lua
 data\core.lua
